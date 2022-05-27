@@ -1,0 +1,33 @@
+p096:
+
+Left to Right mode:
+
+Run 1
+- Total Time: 13350 
+- Fastest: 6
+- Slowest: 2358
+- Avrage: 267
+
+Run 2
+- Total Time: 13369
+- Fastest: 6
+- Slowest: 2538
+- Avrage: 267.38
+
+Run 3
+- Total Time: 13350 
+- Fastest: 6
+- Slowest: 2358
+- Avrage: 267
+
+Run 4
+- Total Time: 12440
+- Fastest: 6
+- Slowest: 2335
+- Avrage: 248.8
+
+Run 5
+- Total Time: 14558
+- Fastest: 7
+- Slowest: 2456
+- Avrage: 291.16

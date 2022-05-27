@@ -1,0 +1,24 @@
+- Backtracking lr on p096_sudoku
+
+Total time to solve 50 boards: 5921 milli seconds
+The board that was solved the fastest was board 5, in 7 milli seconds
+The board that was solved the slowest was board 9, in 900 milli seconds
+The average time to solve a board was 118 milli seconds
+Total recursive BT calls: 938224
+Least recursive BT calls: 34
+Most recursive BT calls: 145170
+Average recursive BT calls: 18764
+Solved 50 out of 50
+
+- Backtracking rl on p096_sudoku
+
+
+
+
+
+
+
+Backtracking lr on 16x16_1/16X16_2/16x16_3
+
+
+Backtracking lr on 25x25_1/25x25_2
